@@ -1,0 +1,375 @@
+{
+    "course": {
+        "id": "81",
+        "name": "English 401",
+        "logo": "https://bit.ly/2zp7YLR",
+        "notes": null,
+        "days_to_complete": "30",
+        "short_description": "English learning",
+        "type": "html",
+        "course_type": null,
+        "lang_available": [
+            "en"
+        ],
+        "exercises": [
+            {
+                "id": "4042",
+                "parent_exercise_id": "4042",
+                "course_id": "81",
+                "name": "submission_type: url",
+                "slug": "english-401__verbs/Introduction_of_verbs_md",
+                "sequence_num": 0,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/english-401/verbs/Introduction_of_verbs.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Introduction of verbs.\n\nDefination :- Jisse kisi kam ko karne ya hone ka pata chalta hai use Verb kahte hai.\n\n\n\nEx :- \n      Eat = Khana (Kuchh karne ka pata chalta hai)\n\n\n\n      Rohan is eating food. = Rohan khana kha raha hai.(Iska matlab vah kuchh kar raha hia aur vah kiya kar raha hai kha raha hai, so isse kuchh karne ka pata chalta hai, Isliye yah ak verb hai.)\n      \n      Go = Jana\n      \n      I am going. = mai ja raha hu.(ja raha hai means kuchh kar raha hai.)\n      \n      Break = Torna\n      \n      She broke my pen. = Usne mera pen tod diya. (means usne tod diya tha, kuchh karne ka pata chalta hai yani ye verb hai.)\n      \n      Catch = Pakarna\n      \n      She can catch the ball. = Vaha ball pakar sakti hai. (Means vah pakar sakti hai, isse bhi kuchh karne ka pata chalta\n      hai.)\n      \nAgar apko or information leni hai toh aap inn video ko dekh skte ho:-\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "PE3-4g5Lqmk"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "ScywAwMbBQY"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "[Forms of 1000 verbs\n](https://www.worldclasslearning.com/english/five-verb-forms.html)\n\n\n\nWe think about you so we are giving you exercise for practice:-\n\n\n\n[Exercise1\n](https://www.ecenglish.com/learnenglish/lessons/10-questions-choose-right-verb-0)\n"
+                    }
+                ]
+            },
+            {
+                "id": "4046",
+                "parent_exercise_id": "4042",
+                "course_id": "81",
+                "name": "Auxiliary_Verbs",
+                "slug": "english-401__verbs/Auxiliary_Verbs_md",
+                "sequence_num": 1,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/english-401/verbs/Auxiliary_Verbs.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Auxiliary Verbs\n\nAuxiliary verbs ke baare me jaanne ke liye yeh video dekhein.\n\n\n\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "gUcT2rKMU00"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Primary Auxiliary Verbs\n\nTO BE, TO HAVE and TO DO are the three primary auxiliary verbs in English.\n\n* TO BE has the following forms: Am, is, are, was, were, being, been\n\n* TO HAVE has the following forms: Have, has, had, having\n\n* TO DO has the following forms: Do, does, did, doing, done\n\n\n\n\nExercises:\n\n\n\nFill in the blanks with the correct forms of Primary Auxiliary Verbs:\n\n\n\n1. You must come to my house after you _____________ completed your work.\n\n2. He __________ playing in the park.\n\n3. _________ he say where he came from?\n\n4. There ___________ many things which the man _________ not know.\n\n5. The foreman ___________ made the call to Gopal after the man came.\n\n6. The manager __________ a decent man because he helps others.\n\n7. There _________ several episodes about which I must tell you.\n\n8. He ___________ (not) want to share his secret with the officer.\n\n9. The man __________ a plan for the revolution.\n\n10. The workers have ________ their job.\n\n\n\n\n\n\nPractice:\n\n1. [Exercise 1](https://www.myenglishpages.com/site_php_files/grammar-exercise-auxiliary-verbs.php)\n2. [Exercise 2](https://www.myenglishpages.com/site_php_files/grammar-exercise-auxiliary-verbs-2.php)\n3. [Exercise 3](https://www.englishgrammar.org/auxiliary-verbs-exercise-7/)\n4. [Exercise 4](https://www.ego4u.com/en/cram-up/grammar/auxiliary-verbs/exercises?ex03)\n"
+                    }
+                ]
+            },
+            {
+                "id": "4043",
+                "parent_exercise_id": "4043",
+                "course_id": "81",
+                "name": "Tenses",
+                "slug": "english-401__tenses/Tenses_md",
+                "sequence_num": 100,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/english-401/tenses/Tenses.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Grammar tenses refer to the state of the verb. The state, or tense, of the verb explains the time of the action.\n\n\n\nThere are three major tenses in English. These include past, present, and future. Each of these tenses can explain an event that occurred in the past, an event that occurs in the present, or an event that will occur in the future.\n\n\n\nExample of Past, Present, and Future Tenses:\n\n\n\nI danced. (past)\nI dance. (present)\nI will dance. (future)\n\n\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "d7Brq5HfT5w"
+                    }
+                ]
+            },
+            {
+                "id": "4047",
+                "parent_exercise_id": "4043",
+                "course_id": "81",
+                "name": "Simple_Present_Tense",
+                "slug": "english-401__tenses/Simple_Present_Tense_md",
+                "sequence_num": 101,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/english-401/tenses/Simple_Present_Tense.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Simple present Tense\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "SXJXaHaWS9U"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "3fEnNbKD3bY"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "QUGETmMFuGQ"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Aaj hum baat karenge Simple Present Tense ke bare me \nTense ke bare me padhne ke liye sabse phale aapko iss Tutorial ko padhna hoga.\n\n\n\n* [Tutorial](https://howhindi.com/simple-present-tense-hindi-to-english-translation/)\n* [Tutorial](https://www.successcds.net/learn-english/simple-present-tense-definition-rules-examples-exercises.html)\n\nAll example:\n\n\n\n1) Affirmative: Simple sentences hote hain jaise General actions speech ke liye use hote hain\n\n\n* \u092e\u0948\u0902 \u092a\u094d\u0930\u0924\u093f\u0926\u093f\u0928 \u0916\u093e\u0928\u093e \u0916\u093e\u0924\u093e \u0939\u0942\u0901\u0964                \nI eat food every day.            \n\n* \u0928\u0926\u093f\u092f\u093e\u0901 \u0938\u092e\u0941\u0926\u094d\u0930 \u092e\u0947\u0902 \u092c\u0939\u0924\u0940 \u0939\u0948\u0902\u0964\nRivers fall into the sea.\n\n* \u0924\u0941\u092e \u0938\u092c \u092c\u0941\u0930\u093e \u0916\u0947\u0932\u0924\u0947 \u0939\u094b\u0964\nYou all play bad.\n\n*  \u0938\u094b\u0928\u0942 \u0917\u0902\u0917\u093e \u0928\u0926\u0940 \u0915\u0947 \u092a\u093e\u0938 \u0930\u0939\u0924\u093e \u0939\u0948\u0964\nSonu lives beside tha Ganga river.\n\n* \u092e\u0947\u0930\u0940 \u092e\u093e\u0901 \u0930\u094b\u091c \u092e\u0902\u0926\u093f\u0930 \u091c\u093e\u0924\u0940 \u0939\u0948\u0902\u0964\nMy mother goes to temple daily.\n\n\n2) Negative: Jis sentence me \"nahi\" laga hota hain wo negative wale hote hain\n\n\n* \u0924\u0941\u092e \u0938\u0935\u093e\u0932 \u0928\u0939\u0940\u0902 \u091c\u093e\u0928\u0924\u0947\u0964\nYou do not know tha question.\n\n* \u0935\u0939 \u0915\u092d\u0940 \u0936\u0924\u0930\u0902\u091c \u0916\u0947\u0932\u0928\u093e \u0928\u0939\u0940\u0902 \u092d\u0942\u0932\u0924\u093e\u0964\nHe never forgets to play chess.\n\n* \u0938\u093e\u0902\u092a \u092c\u093f\u0932 \u0928\u0939\u0940\u0902 \u092c\u0928\u093e\u0924\u0947\u0964 \u0935\u0947 \u0926\u0942\u0938\u0930\u0947 \u0915\u0940\u095c\u094b\u0902 \u0926\u094d\u0935\u093e\u0930\u093e \u092c\u0928\u093e\u090f \u0917\u090f \u092c\u093f\u0932\u094b\u0902 \u092e\u0947\u0902 \u0930\u0939\u0924\u0947 \u0939\u0948\u0902\u0964\nSnakes do not make holes. They live in the holes made by other creatures.\n\n* \u0939\u092e\u093e\u0930\u0947 \u0905\u0927\u094d\u092f\u093e\u092a\u0915 \u092c\u0939\u0941\u0924 \u0924\u0947\u091c\u0940 \u0938\u0947 \u092c\u094b\u0932\u0924\u0947 \u0939\u0948\u0902 \u0907\u0938\u0932\u093f\u090f \u092c\u0939\u0941\u0924 \u0938\u0947 \u0935\u093f\u0926\u094d\u092f\u093e\u0930\u094d\u0925\u0940 \u0909\u0928\u094d\u0939\u0947\u0902 \u0938\u092e\u091d \u0928\u0939\u0940\u0902 \u092a\u093e\u0924\u0947\u0964\nOur teacher speaks so quickly that most of students do not understand him.\n\n* \u092e\u094b\u0939\u0928 \u092f\u0939 \u0915\u093e\u092e \u0928\u0939\u0940\u0902 \u0915\u0930\u0924\u093e\u0964\nMohan does not do this work.\n\n\n3) Interrogative: ka mtlb hota hain prashnavaachak sentence\n\n\n* \u0915\u094d\u092f\u093e \u0924\u0941\u092e \u0909\u0938\u0938\u0947 \u092a\u094d\u092f\u093e\u0930 \u0915\u0930\u0924\u0947 \u0939\u094b? \u0928\u0939\u0940\u0902, \u092e\u0941\u091d\u0947 \u0938\u093f\u0930\u094d\u092b \u0909\u0938\u0915\u093e \u0938\u094d\u0935\u092d\u093e\u0935 \u092a\u0938\u0902\u0926 \u0939\u0948\u0964\nDo you love her? No, I only like her manners.\n\n* \u0915\u094d\u092f\u093e \u0924\u0941\u092e \u091c\u093e\u0928\u0924\u0947 \u0939\u094b \u0915\u0940 \u092a\u093e\u0928\u0940 \u0915\u094d\u092f\u094b\u0902 \u0909\u092c\u0932\u0924\u093e \u0939\u0948 \u091c\u092c \u0939\u092e \u0909\u0938\u0947 \u0917\u0930\u092e \u0915\u0930\u0924\u0947 \u0939\u0948\u0902?\nDo you know why water boils when we heat it?\n\n* \u0915\u094d\u092f\u093e \u0935\u0939 \u092a\u094d\u0930\u0924\u093f\u0926\u093f\u0928 \u0917\u0930\u092e \u092a\u093e\u0928\u0940 \u092e\u0947\u0902 \u0938\u094d\u0928\u093e\u0928 \u0915\u0930\u0924\u0940 \u0939\u0948?\nDoes she take bath in hot water every day?\n\n* \u0915\u094d\u092f\u093e \u0918\u0902\u091f\u0940 10:33 \u092c\u091c\u0947 \u092c\u091c\u0924\u0940 \u0939\u0948?\nDoes the bell ring at 10:33.\n\n* \u0915\u094d\u092f\u093e \u0906\u092a\u0915\u094b \u0938\u0930\u094d\u0926\u0940 \u0932\u0917\u0924\u0940 \u0939\u0948?\nDo you feel cold?\n\n\n\nPractice questions\n\n1) \u092e\u0948\u0902 \u090f\u0915 \u0906\u092e \u0916\u093e\u0924\u093e \u0939\u0942\u0901\u0964\n\n\n2) \u0935\u0939 \u092a\u093e\u0920 \u092f\u093e\u0926 \u0915\u0930\u0924\u093e \u0939\u0948\u0964\n\n\n3) \u0927\u092c\u0940 \u0915\u092a\u0921\u093c\u0947 \u0907\u0938\u094d\u0924\u094d\u0930\u0940 \u0915\u0930\u0924\u093e \u0939\u0948\u0964 \n\n\n4) \u0935\u093f\u0926\u094d\u092f\u093e\u0930\u094d\u0925\u0940 \u0936\u094b\u0930 \u092e\u091a\u093e\u0924\u0947 \u0939\u0948\u0902\n\n\n5) \u092e\u094b\u0939\u0928  \u0915\u094d\u0930\u093f\u0915\u0947\u091f \u0916\u0947\u0932\u0924\u093e \u0939\u0948\u0964 \n\n\n6) \u0935\u0939 \u092e\u0902\u0926\u093f\u0930 \u091c\u093e\u0924\u093e \u0939\u0948\u0964    \n\n\n7) \u0935\u094b \u092e\u0902\u0926\u093f\u0930 \u0928\u0939\u0940\u0902 \u091c\u093e\u0924\u0940 \u0939\u0948\u0964\n\n\n8) \u0930\u093e\u092e \u092a\u094d\u0930\u0924\u093f\u0926\u093f\u0928 \u092a\u0942\u091c\u093e \u0915\u0930\u0924\u093e \u0939\u0948\u0964\n\n\n9) \u0938\u0940\u0924\u093e  \u092a\u0942\u091c\u093e \u0928\u0939\u0940\u0902 \u0915\u0930\u0924\u0940 \u0939\u0948\u0964\n\n\n10) \u092e\u0948\u0902 \u092c\u093e\u091c\u093e\u0930 \u091c\u093e\u0924\u093e \u0939\u0942\u0901\u0964\n\n\n11) \u0924\u0941\u092e \u0915\u094d\u0930\u093f\u0915\u0947\u091f \u0916\u0947\u0932\u0924\u0947 \u0939\u094b\u0964\n\n\n12) \u0935\u0939 \u0938\u094d\u0915\u0942\u0932 \u091c\u093e\u0924\u093e \u0939\u0948\u0964\n\n\n13) \u0938\u0942\u0930\u094d\u092f \u092a\u0942\u0930\u094d\u0935 \u092e\u0947\u0902 \u0909\u0917\u0924\u093e \u0939\u0948\u0964\n\n\n\n---\n\nAnswers\n\n(Exercises ko khud solve karne ke baad hi answers dekhein, nahi toh aapki learning nahi hogi.)\n\n\n\n1) I eat a mango. \n\n\n2) He learns the lesson.\n\n\n3) Dhobi irons clothes.\n\n\n4) Students make noise.\n\n\n5) Mohan plays cricket?\n \n\n6) He goes to temple.\n\n\n7) She does not go to temple.\n\n\n8) Ram prays every day.\n\n\n9) Seeta does not pray.\n\n\n10) I go to market.\n\n\n11) He goes to school.\n\n\n12) You play cricket\n\n\n13) The sun rises in the east.\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "4048",
+                "parent_exercise_id": "4043",
+                "course_id": "81",
+                "name": "Present_Continuous_Tense",
+                "slug": "english-401__tenses/Present_Continuous_Tense_md",
+                "sequence_num": 102,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/english-401/tenses/Present_Continuous_Tense.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "** First you have to watch this video**\n\n\n\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "1YCLDC_Eqos"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "ys_qlQIWvhA"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "present continuous\n\n1.\n\n[http://www.studyandexam.com/present-continuous-tense.html\n](http://www.studyandexam.com/present-continuous-tense.html)\n\n\n\nQuestions\n\n1. Hurry up! We \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.. for you.\na.waiting\nb.are waiting\nc.wait\n\n2. \u2018What are you \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.?' \u2018I \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026. letters.\u2019\na.doing, writing\nb.done, writing\nc.doing, write\n\n3. He \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026. in Italy at the moment.\na.works\nb.workin\nc.is working\n\n4. She doesn\u2019t like to be disturbed when she \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..\na.works\nb.working\nc.is working\n\n5. That child \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 bigger everyday.\na.gets\nb.getting\nc.goted\n\n6. Who is that girl \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.. on the `tab`le?\na.stand\nb.standing  \nc.is standing\n\n7. I \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.. for the shops to open. \na.wait\nb.am waiting\nc.waiting\n\n8. I \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.. Jane tomorrow.\na.see\nb.am seeing\nc.seeing\n\n9. The universe \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026, and has been so since its beginning.\na.expands\nb.is expanding\nc.expanding\n\n10. My sister \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026. at home for the moment.\na.lives\nb.living\nc.is living\n\n11. I have to change my shoes. These _ me. I'm sure I have a blister.\na.are killing\nb.kill\n\n\n12. I feel a bit lost. I've just finished a really good novel and now I _ anything.\na.am not reading\nb.do not read\n\n\n13. Coming to London for Christmas was a great I idea. I _ it here.\na.love\nb.am loving\n\n\n14. The company _ its offices to a bigger building next month.\na.moves\nb.is moving\n\n\n15. John really knows his subject. He _ a lecture on social media at university every Wednesday. You should come.\na.gives\nb.is giving\n\n\n16. Sarah _ me when I speak. It's so irritating.\na.is always interrupting\nb.always interrupts\n\n\n17. Can you help me with these boxes or _ ?\na.are you busy\nb.are you being busy\n\n\n18. I _ people who never really listen to what you say.\na.am hating\nb.hate\n\n\n\n\nExercise1:https://www.grammarbank.com/present-continuous-tense-exercises.html\n\n\n\n\n\n \n\n**Answer**\n1.a, 2.a, 3.c, 4.c, 5.b, 6.b,7.b, 8.b, 9.b, 10.c,11.a, 12.a, 13.b, 14.b, 15.b, 16.a, 17.b, 18.a\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "4049",
+                "parent_exercise_id": "4043",
+                "course_id": "81",
+                "name": "Present_Perfect_Tense",
+                "slug": "english-401__tenses/Present_Perfect_Tense_md",
+                "sequence_num": 103,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/english-401/tenses/Present_Perfect_Tense.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "youtube",
+                        "value": "k3eGDA-IJuM"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "[Link\n](https://www.examtricksadda.com/2017/08/present-perfect-tense-hindi-to-english-translation-anuwad-rules-has-have-uses.html)\n\n\nPresent Perfect Tense Examples\n\nPresent perfect tense combines the present tense and the perfect aspect used to express an event that happened in the past that has present consequences. this tense is used to show a link between the present and past and is commonly used in everyday conversations, in the news, on the radio, and when writing letters.\n\n\n\nUsing present perfect tense\n\nTo create the present perfect tense of any verb, you will combine the present tense of the verb \"to have\" plus the past participle of the Main verb of the sentence. the past participle of a regular verb is the base word plus -ed. you Can find a list of the past participle of irregular verbs here.\n\n\n\none example of this tense is: \"have jumped.\" \"have\" is the present tense and \"jumped\" is the past participle. some other forms of this tense ARE:\n\n\n\n* Has lived: she has lived here all her life.\n\n* Have written: they have written three letters already.\n\n* Have worked: I have worked here since I graduated school.\n\n* Has done: He has finished his homework.\n\n* Have been: We have been to Canada. \n\n* Has forgotten: she has forgotten her folder.\n\n\n\n\nThere ARE many different situations where the present perfect tense Can be used. It Can be used in the following ways:\n\n\n\n* To describe an ACTION that is being repeated between the past and present. example: We have gone to the beach many times.\n\n* To describe an ACTION that started in the past and is still continuing in the future. example: I have lived in the united states since 1990.\n\n* To describe an ACTION that has not yet been finished. example: It has rained a Lot this month.\n\n* To describe an ACTION that was completed in the recent past. example: I have just finished my internship at the museum.\n\n* To describe an ACTION when time was not an important aspect. example: she has lost her wedding ring.\n\n\n\n\nThere ARE times when you cannot use the present perfect tense. for example, you cannot use it with specific expressions of time that have already finished, such as last year, that month, when I was a baby, etc.\n\n\n\nExamples of present perfect tense\n\n\n\nPresent perfect tense Can be used with expressions that ARE unspecific in time:\n\n\n\n1. I have lost my purse.\n\n2. We have seen this movie already.\n\n3. He has broken his leg.\n\n4. There has been an accident.\n\n\n\n\nSome examples of present perfect tense used to express an unfinished period of time ARE:\n\n\n\n1. We haven't seen her today.\n\n2. They have been to the mall twice this month.\n\n3. She has watched that show three times this week.\n\n\n\n\nExamples of using present perfect in talking about events that happened in the recent past but the effect of the recent event is still felt in the present include:\n\n\n\n1. The children have made a mess in the kitchen.\n\n2. He has started a new Job.\n\n3. She has finished her chores.\n\n\n\n\nPresent perfect tense Can be used in questions as well. here ARE some examples:\n\n\n\n1. Where have I left my sandals?\n\n2. Have you visited England?\n\n3. Has she met John?\n\n\n\n\nOther combinations of words\n\n\n\n\nIn addition, you Can use time-related adverbs in the present perfect tense, as Long as they don't refer to a time which is finished. these words include: \"already,\" \"just\" and \"yet.\" some examples of how these words ARE used ARE:\n\n\n\n1. The book came out yesterday, but I have already Read it. (already is used to express that something has happened sooner than expected.)\n\n2. She has just left the building. (just is used to convey that the event happened a short time ago.)\n\n3. He hasn't finished it yet. (yet is used in negative sentences to mean that something is expected to happen.\n\n\n\nFill in the gaps with the right forms of the verbs in brackets to complete the following English sentences in Present Perfect Tense.\n\n\n\n\n1. They_____London this month.(leave)\n\n\n\n2. He_____ a lot of English papers.(bring)\n\n\n\n3. She____me about it.(tell)\n\n\n\n4. I_____a long letter from father this week.(get)\n\n\n\n\n5. She (just)_______; she will speak to you in a minute.(come)\n\n\n\n\n6. I______to Radio City.(be)\n\n\n7. I think the director______the town.(leave)\n\n\n\n\n8. I_____my office.(paint)\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "4051",
+                "parent_exercise_id": "4043",
+                "course_id": "81",
+                "name": "Simple_Past_Tense",
+                "slug": "english-401__tenses/Simple_Past_Tense_md",
+                "sequence_num": 104,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/english-401/tenses/Simple_Past_Tense.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Simple Past Tense\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "-vlx-7hyJf4"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "y0VTP7https"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "OxyQRx9cUTA"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "How do you form the simple past tense?\nThe past simple is usually formed by adding 'd', 'ed', or 'ied' to the base form of the verb, however, in English there are many irregular verbs that take on a completely different form in the past tense. Some people call this the V2 form of the verb. The best thing to do is to try and memorize them.\n\n\n\nFill in the verbs in parentheses in simple past tense.\n\n\n\n1. I ..... swati.(meet)\n\n\n2. You ...... an apple.(eat)\n\n\n3. You ...... food for everybody.(cook)...\n\n\n4. It ....... a history.(create)\n\n\n5. We ....... on a tree.(climb)\n\n\n6. They ....... in temple for you.(pray)\n\n\n7. Boys ....... eveywhere to guide.(preach)\n\n\n8. I .......... him my support.(promise)\n\n\n9. The fish ............ out of the water.(jump)\n\n\n10. They .......... their friends greeting.(post)\n\n\n11. You ....... me in the time of need.(help)\n\n\n12. Boy ........ out.(go)\n\n\n13. They .........him as a leader.(elect)\n\n\n14. Boys ........... rules and regulation.(violat)\n\n\n15. She ....... him the monitor.(make)\n\n\n16. I ........ to meet her.(wish)\n\n\n17. she ....... in in her small garden.(work)\n\n\n18. I ..... yes.(say)\n\n\n19. They .......together.(live)\n\n\n20. We ....... at Ajunta caves.(reach)\n\n\n\nAnswers\n\n1)I .met.... swati.\n\n\n\n2)You .ate..... an apple.\n\n\n\n3)You ..cook.... food for everybody.\n\n\n\n4)It ..created..... a history.\n\n\n\n5)we .climbed..... on a tree.\n\n\n\n6)They .prayed...... in temple for you.\n\n\n\n7)Boys .preached.. eveywhere to guide.\n\n\n\n8)I ..promised.. him my support.\n\n\n\n9)The fish ...jumped.. out of the water.\n\n\n\n10)They ...posted....... their friends greeting.\n\n\n\n11) You ...helped.... me in the time of need.\n\n\n\n12)Boy ..went...... out.\n\n\n\n13)They ...elected..him as a leader.\n\n\n\n14)Boys ...violated........ rules and regulation.\n\n\n\n15)She .made...... him the monitor.\n\n\n\n16)I .wished....... to meet her.\n\n\n\n17)she .worked...... in in her small garden.\n\n\n\n18)I ..said... yes.\n\n\n\n19)They ...lived....together.\n\n\n\n20)We ..reached..... at Ajunta caves.\n\n\n\nSimple past Tense\n\nYou can visit more learn this website:-\n\n\n\n* [Exercise](https://www.englishgrammar.org/simple-tense-exercise/)\n* [Exercise](https://www.myenglishpages.com/site_php_files/grammar-exercise-simple-past.php)\n* [Exercise](https://www.easypacelearning.com/pdf/tense2.pdf)\n"
+                    }
+                ]
+            },
+            {
+                "id": "4050",
+                "parent_exercise_id": "4043",
+                "course_id": "81",
+                "name": "Past_Continuous_Tense",
+                "slug": "english-401__tenses/Past_Continuous_Tense_md",
+                "sequence_num": 105,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/english-401/tenses/Past_Continuous_Tense.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Past contiunous tense -\nsabse phle aap ye videos dekhe -\n\n\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "KzFLIDqTfjM&feature"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "kf6MYOozFAQ"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Definition :-\npast tense describe action and events before some time. Identity of past continuous tense At the end of the sentense i was there, it is called past continuouse tense. \n\n\n \nStructure :-\nsubject + auxiliary verb + main verb +ing + object\nAuxiliary verb means - sahyak kiriya\n\n\n \nmain verb means - mukhy kiriya\npast continuous tense auxiliary verb are was/were\n\n\n \nuse in singular noun ( I,she , he, If)=was\nuse in plural noun(we,you,they)=were\nExamples :-\nSimple sentence\n\n1. He was waiting for you.\n\n2. She was writing a letter.\n\n3. He was driving his car.\n\n4. She was making preparation for the exam.\n\n5. The dog was breaking at them.\nExamples :-\nNegative sentence\nSubject +auxilary verb +not +main verb+ing +object\n\n1. I was not accepting such a foolish behaviour from him.\n\n2. He was not sleeping.\n\n3. He was not washing her clothes.\n\n4. They were not shouting .\n\n5. You were not driving carefully.\nExamples :-\nInterrogative sentence\nAuxiliray verb +subject+main verb+ing +object\n\n1.Were Were they going to their college.\n\n2. Was he coming to his home.\n\n3. Was she singing a song.\n\n4. Were you asking me something .\n\n5. Was i calling you.\nPractice  questions :- \nA. I \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.. TV at eight o\u2019clock yesterday evening.\n\n1.am am watching\n\n2.was was watching\n\n3.watched\nB. watched\nB. I \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 all day yesterday.\n\n1.painted painted\n\n2.was was painting\n\n3.have have painted\nC. They \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 the whole time they were together.\n\n1.quarreled quarreled\n\n2.are are quarreling\n\n3.were were quarreling\nD. As I \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.. down the road, I saw Philip.\n\n1.am am walking\n\n2.walked walked\n\n3.was was walking\nE. The phone rang while I \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026. dinner.\n\n1.am am having\n\n2.had had\n\n3.was was having\nF. It happened while I \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.. in Southampton last year.\n\n1.lived lived\n\n2.was was living\n\n3.am am living\nG. When I entered her room, she \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026. the piano.\n\n1.played played\n\n2.playing playing\n\n3.was was playing\nH. When I got up this morning, the sun \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.\n\n1.shining shining\n\n2.was was shining\n\n3.is is shining\nI. At the time when it happened, I \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 to the opera a lot.\n\n1.went went\n\n2.was was going\n\n3.am am going\n\n\n\nAnswers-\nA) was watching\nB) was painting\nC) were quarreling\nD) was walking\nE) was having\nF) was living\nG) was playing\nH) was playing\n\n\n\nI) was going\n\n\n\nab aap 30 minit tak aapas me past contiunous ki helping  verb ke sath baat kare or observe kare ki aap sahi sentence bol pa rhe ho ya nhi. \n\n\n\nPractice questions-\nconvert to past continuous tence-\n\n1. I am playing cricket.\n\n2. I am watching TV.\n\n3. we are going to market.\n\n4. They are doing work.\n\n5. we are sleeping.\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "4052",
+                "parent_exercise_id": "4043",
+                "course_id": "81",
+                "name": "Past_Perfect_Tense",
+                "slug": "english-401__tenses/Past_Perfect_Tense_md",
+                "sequence_num": 106,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/english-401/tenses/Past_Perfect_Tense.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "name past perfect tense\n\n\n\n**First you have to watch this video**\n\n\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "YLBAjBD32j4"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "3Dniu44rU7o"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "9QU5bqql8Kg"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Past Perfect Tense\n\nyou can visit this websites:-\n\n\n\n[Exercise\n](http://www.englishseekhon.com/use-of-past-perfect-tense-in-hindi.html)\n\n\n[Exercise\n](https://www.successcds.net/learn-english/past-perfect-tense-definition-formula-examples-exercises.html)\n\n\nExercises \u2013 Past Perfect\n\n\n\nFill in the correct form of the past perfect as in the examples.\n\n\n\n\n\n  After Loren had turned on the alarm, she locked the door. (turn on)\n\n\n\n* By the time Simone arrived, the police had already left. (arrive)\n\n\n* Had you known about the contract they signed? (know)\n\n\n* After the company _____Joe, he began to work on his first project. (hire)\n\n\n* _you ___ the news before you saw it on TV? (hear)\n\n\n* Michael didn\u2019t want to see the movie because he _______ the book yet. (not read)\n\n\n* The concert ______ already when we  the stadium. (begin/ enter)\n\n\n* Until Anne ________ Mark, she ____ never ______in love. (meet, be)\n\n\n* Bill __________ for years before he finally _______. (smoke/ quit)\n\n\n*  _______ Sara ever _______to London by herself before then? (drive)\n\n\n* How many fish ______ the boys _____ by the time it started raining? (catch)\n\n\n* You ________ them to go to the beach, hadn\u2019t you? (forbid)\n\n* The girls _______ in weeks? That\u2019s why they ______ so much afterwards. (exercise / hurt\n\nAnswers:-\n\nhad hired\nHad/heard\nhadn\u2019t read\nhad/begun/entered\nmet/had/been\nhad smoked/quit\nHad/driven\nhad/caught\nhad forbidden\nhadn\u2019t exercised / hurt\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "4054",
+                "parent_exercise_id": "4043",
+                "course_id": "81",
+                "name": "Simple_Future_Tense",
+                "slug": "english-401__tenses/Simple_Future_Tense_md",
+                "sequence_num": 107,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/english-401/tenses/Simple_Future_Tense.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Simple Future Tense\n\nFirst see this video.\n\n"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Let's go to read about simple future tense.\n\nGo to this tutorial for know about simple future tense.\n\n"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Fill in the blanks:-\n\n##(A). Affirmative sentence:-\n\n1. He ___________ eat.\n\n2. We ___________ play.\n\n3. They _________ sing.\n\n4. I ____________ come tommarow.\n\n5. She __________ buy a laptop at the end of this month.\n\n\n\n##(B). Negative sentence:-\n\n1. We ___________ go to market today.\n\n2. I ____________ meet you.\n\n3. Alice _________ help us decorate for the party.\n\n\n\n##(C). Interrogative sentence:-\n\n1. ________ you meet me.\n\n2. ________ you marry me.\n\n3._________ _________ Dave burn the CD for you?\n\n\n\n\n##(D) Mix sentence:-\n\n1. Sam _______ the documents over to you tomorrow. (bring)\n\n2. The managers ________ about the budget until next Thursday. (not decide)\n\n3. _______ your sister ______ in a large church? (get married)\n\n4. ________ he _____ you move to your new apartment? (not help)\n\n5. I _________ him this time. He mustn\u2019t do that again. (forgive)\n\n\n\n##(E). Infinitive sentences:-\n1.Ben__________ Mr. Davis to give him a good grade. (persuade)\n2.We __________ a refund on that TV that broke down. (demand)\n3. ________Ms. Thompson __________ you extra for that work?(pay)\n4.I _______ Los Angeles next year. (leave)\n5.Turner _______ a car when he lands at the airport. (hire) He\u2019ll take the train.\n\n\n\n##Exercise1\n\n"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "##(A) Answer\n\n1. will\n\n2. shall\n\n3. will\n\n4. will\n\n5. will\n\n\n\n##(B) Answer\n\n1. will not\n\n2. will not\n\n3. will not\n\n\n\n##(C) Answer\n1.will\n2.will\n3.will\n\n\n\n##(D) Answer\n1.will bring \n2.won\u2019t decide\n3.Will/ get married\n4. Won\u2019t/help\n5. will forgive\n\n\n\n##(E) Answer\n1.is going to persuade\n2.are going to demand\n3.Is/going to pay\n4. am going to leave\n5.isn\u2019t going to hire\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "4053",
+                "parent_exercise_id": "4043",
+                "course_id": "81",
+                "name": "Future_Perfect_Tense",
+                "slug": "english-401__tenses/Future_Perfect_Tense_md",
+                "sequence_num": 108,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/english-401/tenses/Future_Perfect_Tense.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Future Perfect Tense\n\n**First you have to watch this video**\n\n\n\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "_zErY5dar9Y"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "yEdOh7_1juM"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Future Perfect Tense\n\nYou can visit this website:-\n\n\n\n[https://www.englishpage.com/verbpage/futureperfect.html\n](https://www.englishpage.com/verbpage/futureperfect.html)\n\n\n\nExercise1:-\n\nFill in the verbs in parentheses in future perfect tense.\n\n\n\n\n\n1) Anne____________________________________ her bike next week. (repair)\n\n\n2) We______________________________________ the washing by 8 o\u2019clock. (Do)\n\n\n3) She_____________________________________ Paris by the end of next year. (Visit)\n\n\n4) I_____________________________________ this by 6 o\u2019clock. (Finish)\n\n\n5) Sam________________________________ by next week. (Leave)\n\n\n6) She__________________________________ this with her mother tonight. (Discuss)\n\n\n7) The police_________________________________ the driver. (Arrest)\n\n\n8) They________________________________________ their essay by tomorrow. (Write)\n\n\n9) Paolo ______________________________________ the teams. (Manage)\n\n\n10) If we can do that \u2013 then we______________________________________ our mission. (Fulfil)\n\n\n\n\n\n\nExercise2:-\n\nMake sentences in the future perfect tense:\n\n\n\n1) I_______________________________________ (leave) by six.\n\n\n2) Will __________________________________ (you/finish) the report by the deadline?\n\n\n3) When _________________________________ (we/do) everything?\n\n\n4) She __________________________ (finish) her exams by then, so we can go out for dinner.\n\n\n5) You______________________________________ (read) the book before the next class.\n\n\n6) She _________________________________________ (not/finish) the work by seven.\n\n\n7) When_______________________________________ (you/complete) the work?\n\n\n8) They ____________________________________ (arrive) by dinner time.\n\n\n9) We __________________________________ (be) in London for three years by next week.\n\n\n\n10)________________________________________ (she/get) home by lunch time?\n\n\n\nAnswers\n\nExercise1:-\n\n1. will have repaired                              \n\n2. will have done                                     \n\n3. will have visited                              \n\n4. will have finished                                  \n\n5. will have left                                        \n\n6. will have discussed                              \n\n7. will have arrested                              \n\n8. will have written                                    \n\n9. will have managed                                                          \n\n10.will will have fulfilled                                              \n\n\n\n\n\nEercise2:-\n\n1. will have left\n\n2. you have finished    \n\n3. will we have done    \n\n4. will have finished    \n\n5. will have read    \n\n6. will not have finished    \n\n7. will you have completed\n\n8. will have arrived\n\n9. will have been                           \n\n10.will will she have gotten                 \n\n\n\n\nMORE PRACTICE:-\n\n\n\n[Exercise\n](https://www.perfect-english-grammar.com/future-perfect-exercise-4.html)\n"
+                    }
+                ]
+            },
+            {
+                "id": "4044",
+                "parent_exercise_id": null,
+                "course_id": "81",
+                "name": "submission_type: url",
+                "slug": "english-401__Review_Exercise_2_md",
+                "sequence_num": 200,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/english-401/Review_Exercise_2.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "1. Form sentences in \"Present Tense\" using the following prompts.\n\n\n\n>For For example, for the following prompt &quot;Rishabh/Dharamsala/live&quot;, the following sentences can be made in Present Tense.\n>For \n- Sonam/movie/watch\n\n- Ankita/ukulele/play\n\n- Abhishek/lake/swim\n\n- Pooja/football/play\n\n- He/organise/workshop\n\n\n\n---\n\n2. Form sentences in \"Past Tense\" using the following prompts.\n\n\n\n>For For example, for the following prompt &quot;Rishabh/Dharamsala/live&quot;,the following sentences can be made in Present Tense.\n>For \n- They/assignment/complete\n\n- She/drank/water\n\n- He/played/kabbadi\n\n- Rahul/watch/sunset\n\n- Deepak/cook/lunch\n\n\n\n---\n\n3. Form sentences in \"Future Tense\" using the following prompts.\n\n\n\n\n>For For example, for the following prompt &quot;Rishabh/Dharamsala/live&quot;,the following sentences can be made in Present Tense.\n>For \n- Rohit/complete/accounts\n\n- She/play/flute\n\n- You/eat/dinner\n\n- They/tell/story\n\n- Krishna/go/forest\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "4045",
+                "parent_exercise_id": null,
+                "course_id": "81",
+                "name": "submission_type: url",
+                "slug": "english-401__Review_Exercise_md",
+                "sequence_num": 300,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/english-401/Review_Exercise.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "1. Form questions in \"Present Tense\" using the following prompts.\n\n\n\n>For For example, for the following prompt &quot;Rishabh/Dharamsala/live&quot;,the following questions can be made in Present Tense.\n>For \n- Sonam/movie/watch\n\n- Ankita/ukulele/play\n\n- Abhishek/lake/swim\n\n- Pooja/football/play\n\n- He/organise/workshop\n\n\n\n---\n\n2. Form questions in \"Past Tense\" using the following prompts.\n\n\n\n>For For example, for the following prompt &quot;Rishabh/Dharamsala/live&quot;,the following questions can be made in Present Tense.\n>For \n- They/assignment/complete\n\n- She/drank/water\n\n- He/played/kabbadi\n\n- Rahul/watch/sunset\n\n- Deepak/cook/lunch\n\n\n\n---\n\n3. Form questions in \"Future Tense\" using the following prompts.\n\n\n\n\n>For For example, for the following prompt &quot;Rishabh/Dharamsala/live&quot;,the following questions can be made in Present Tense.\n>For \n- Rohit/complete/accounts\n\n- She/play/flute\n\n- You/eat/dinner\n\n- They/tell/story\n\n- Krishna/go/forest\n\n"
+                    }
+                ]
+            }
+        ]
+    }
+}
